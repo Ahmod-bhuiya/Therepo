@@ -94,4 +94,5 @@ Species    | petal_length | sepal_length
  verscitor | 14.9         | 14.0
 
  # 12-INSTALL EXTENSION
+ 
 [image](qr.png)
